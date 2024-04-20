@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T20:15:38.019Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tBHPFSlQWSxJJMX9lVFr" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T20:17:59.773Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="eMT36Mtr0Hp6ADkxKGJR" version="24.2.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1018" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="Rg2QCjTxB51-4lgKOYer-29" value="路线管理" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="292" y="440" width="35" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Rg2QCjTxB51-4lgKOYer-30" value="登出" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="Rg2QCjTxB51-4lgKOYer-30" value="登出" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="35" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Rg2QCjTxB51-4lgKOYer-32" value="" style="endArrow=none;html=1;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
@@ -66,6 +66,27 @@
             <mxPoint x="105.30000000000001" y="440" as="sourcePoint" />
             <mxPoint x="105.30000000000001" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rg2QCjTxB51-4lgKOYer-35" value="系统首页" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg2QCjTxB51-4lgKOYer-37" value="热门酒店" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="683" y="440" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg2QCjTxB51-4lgKOYer-38" value="热门景点" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="440" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg2QCjTxB51-4lgKOYer-40" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="440" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg2QCjTxB51-4lgKOYer-41" value="景区游玩" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="513" y="440" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg2QCjTxB51-4lgKOYer-43" value="景区游玩攻略" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="440" width="35" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg2QCjTxB51-4lgKOYer-44" value="在线预定" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="626" y="440" width="35" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
